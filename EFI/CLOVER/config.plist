@@ -123,8 +123,10 @@
 		<string>dart=0 debug=0x100 shikigva=40 darkwake=3 keepsyms=1 slide=0</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
+		<key>NoEarlyProgress</key>
+		<true/>
 		<key>Timeout</key>
-		<integer>10</integer>
+		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
